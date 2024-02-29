@@ -7,3 +7,4 @@
 ![alt text](https://github.com/Marsianec/homework20-1/blob/main/img/1.png)  
 ![alt text](https://github.com/Marsianec/homework20-1/blob/main/img/2.png)  
 ![alt text](https://github.com/Marsianec/homework20-1/blob/main/img/3.png)
+![alt text](https://github.com/Marsianec/homework20-1/blob/main/img/4.png)
